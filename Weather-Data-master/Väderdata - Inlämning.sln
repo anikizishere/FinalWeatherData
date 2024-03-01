@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Väderdata - Inlämning", "Väderdata - Inlämning\Väderdata - Inlämning.csproj", "{15C33954-8A38-4F73-B27D-16AE90E820D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C33954-8A38-4F73-B27D-16AE90E820D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C33954-8A38-4F73-B27D-16AE90E820D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C33954-8A38-4F73-B27D-16AE90E820D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C33954-8A38-4F73-B27D-16AE90E820D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {683C8687-1039-49FD-9454-E02166329498}
+	EndGlobalSection
+EndGlobal

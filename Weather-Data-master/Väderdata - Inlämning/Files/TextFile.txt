@@ -1,0 +1,62 @@
+Medeltemperatur sorterad efter månad (Ute):
+Månad: 6
+Temperatur: 16°C
+Fuktighet 53%
+Mögelindex: 0
+Månad: 7
+Temperatur: 20°C
+Fuktighet 52%
+Mögelindex: 0
+Månad: 8
+Temperatur: 18°C
+Fuktighet 48%
+Mögelindex: 0
+Månad: 9
+Temperatur: 16°C
+Fuktighet 60%
+Mögelindex: 0
+Månad: 10
+Temperatur: 8°C
+Fuktighet 64%
+Mögelindex: 0
+Månad: 11
+Temperatur: 3°C
+Fuktighet 83%
+Mögelindex: 5,018165978518399
+Månad: 12
+Temperatur: 3°C
+Fuktighet 77%
+Mögelindex: 0
+Medelfuktighet sorterad efter månad (Inne):
+Månad: 6
+Temperatur: 25°C
+Fuktighet 28%
+Mögelindex: 0
+Månad: 7
+Temperatur: 26°C
+Fuktighet 41%
+Mögelindex: 0
+Månad: 8
+Temperatur: 26°C
+Fuktighet 34%
+Mögelindex: 0
+Månad: 9
+Temperatur: 23°C
+Fuktighet 41%
+Mögelindex: 0
+Månad: 10
+Temperatur: 22°C
+Fuktighet 27%
+Mögelindex: 0
+Månad: 11
+Temperatur: 23°C
+Fuktighet 19%
+Mögelindex: 0
+Månad: 12
+Temperatur: 22°C
+Fuktighet 15%
+Mögelindex: 0
+Datum för meteorogiska årstider:
+2016-10-04 var första meteorogiska höstdagen med medeltemperaturen 8,4°C.
+Fullständiga villkor för meteorogisk vinter kunde inte hittas. Datumet som är närmast till att matcha är 2016-11-10, med tidigare dagar i följd.
+Uträkningsformel för mögelindex: ((luftfuktighet -78) * (Temp/15))/0,22
